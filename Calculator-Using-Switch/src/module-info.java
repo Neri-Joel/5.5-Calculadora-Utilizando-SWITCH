@@ -1,0 +1,2 @@
+module Calculator.Using.Switch {
+}
